@@ -58,25 +58,25 @@ The analysis was conducted through the following steps:
 ### Overview
 Provides a general overview of workforce composition, including total employees, average salary, attrition rate, and employee demographics.
 
-![HR Dashboard Overview](<img width="996" height="576" alt="HR Dashboard Overview" src="https://github.com/user-attachments/assets/cd2ae36c-c20e-4f79-b40c-4e8848dc6630" />
+![HR Dashboard Overview](https://github.com/user-attachments/assets/b5a0b343-fe80-4633-913b-e8b01e5e283e
 )
 
 ### Attrition
 Highlights employee turnover metrics, active versus terminated employees, attrition trends, and the distribution of termination reasons.
 
-![HR Dashboard Attrition](<img width="996" height="576" alt="HR Dashboard Attrition" src="https://github.com/user-attachments/assets/0c83681d-6ccb-428e-a794-311096676fce" />
+![HR Dashboard Attrition](https://github.com/user-attachments/assets/84fa9dbe-c524-4003-b025-eeafe8a3450e
 )
 
 ### Termination Insights
 Uses Power BI's Key Influencers visual to identify termination reasons associated with a higher likelihood of voluntary termination.
 
-![HR Dashboard Termination Insights](<img width="996" height="576" alt="HR Dashboard Termination Insights" src="https://github.com/user-attachments/assets/82a29266-8d0e-4ea4-b6be-d86cc02f72b0" />
+![HR Dashboard Termination Insights](https://github.com/user-attachments/assets/cbff91a1-2976-4ed5-94aa-bdf953eb75ef
 )
 
 ### Employee Details
 Displays employee-level information with interactive filters for more detailed exploration.
 
-![HR Dashboard Employee Details](<img width="996" height="576" alt="HR Dashboard Employee Details" src="https://github.com/user-attachments/assets/1769369b-4da9-4fbb-a68f-15b740499db0" />
+![HR Dashboard Employee Details](https://github.com/user-attachments/assets/ca6fe0f1-3a71-46c6-b485-371e6db3ed96
 )
 
 ## 5. Key Insights
